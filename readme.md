@@ -117,6 +117,7 @@ end
 - Typical values for lambda range between 0.95 and 0.99
 
 ## Author
-Henrique Perez Gomes da Silva
-hperez@unifei.edu.br
-Maid with ❤️ in UNIFEI - Federal de Itajubá :)
+- Henrique Perez Gomes da Silva
+- hperez@unifei.edu.br
+- Maid with ❤️ in UNIFEI - Federal de Itajubá :)
+- Tnx to Prof. Jeremias B. Machado
